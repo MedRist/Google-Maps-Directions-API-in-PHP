@@ -18,7 +18,7 @@ public function get_Total_Distance()
 ```
 public function get_Total_Duration
 ```
-## Total result about the trip
+## Total results about the trip
 ```
 public function get_Total_Result()
 ```
